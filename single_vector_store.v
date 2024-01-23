@@ -1,4 +1,4 @@
-module SingleActivationStore #(
+module SingleVectorStore #(
     parameter value_width = 16,
     parameter address_width = 10
 ) (
